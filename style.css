@@ -1,0 +1,20 @@
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 10px solid Orange;
+  width: 500px;
+  background: pink;
+
+}
+
+img {
+  width: 50%;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+h1, h2, h3 {
+  background-color: lightSkyBlue;
+}
